@@ -11,7 +11,7 @@ This data cleaning project aim to simplify data cleaning process for these categ
 
 To provide context, data from various categories was initially downloaded from Salesforce onto the local machine. Subsequently, the data underwent a cleaning process using Python before being uploaded to a SharePoint folder. Finally, the cleaned data was retrieved and incorporated into a Power BI Dashboard.
 
-
+I'm planning to turn the data cleaning code into portable application. 
 
 
 
