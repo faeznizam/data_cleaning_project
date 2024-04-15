@@ -49,6 +49,8 @@ def main():
     # folder path
     folder_path = rf'C:\Users\mfmohammad\OneDrive - UNICEF\Documents\Data Cleaning\{year}\{month}\{day}'
 
+    print("Initiating Data Cleaning Process . . . ")
+
     clean_file_name.clean_name(folder_path)
 
     date_format = create_date_format()
